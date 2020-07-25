@@ -14,7 +14,7 @@ function App() {
     <Menu/>
     <Content/>
     <Clock/>
-    <Footer year ="2024"/>
+    <Footer year ="2025"/>
     </div>
   );
 }
