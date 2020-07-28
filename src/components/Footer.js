@@ -5,7 +5,7 @@ import { render } from '@testing-library/react';
 export default function Footer(props){
         return(
             <div className="App-footer">  
-                <h2>copyright {props.year}  @ patito sa </h2>
+                <h2>copyright {props.year}  @ patito sa azure </h2>
             </div>
         );
 }
